@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for Jonathan Molen, jmolen@uci.edu--
 
 A reminder on academic integrity, as described in the syllabus.
 
@@ -11,22 +11,24 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
 */10
-- */1 Readme
-- */2 Basic HTML content
+- 1/1 Readme
+- 2/2 Basic HTML content
 - */1 Basic CSS styling
 - */1 Advanced feature
-- */2 Responsive layout
+- 2/2 Responsive layout
 - */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
-
+- At least one image, with descriptive alt attribute(s)
+- Appropriate headings and paragraph text
+- Links to external page(s)
 
 (b) CSS features
-
+- Modifying padding and margins to indent content and enhance readability
+- Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the resources tab
 
 
 (c) Advanced features
@@ -39,10 +41,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+1.5
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
+https://www.w3schools.com/html/html_links.asp
 
 
 
@@ -51,4 +54,4 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 7. Is there anything special we need to know in order to run your code?
-
+n/a
