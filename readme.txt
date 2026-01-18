@@ -41,11 +41,12 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
-1.5
+3.5
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 https://www.w3schools.com/html/html_links.asp
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto
 
 
 
