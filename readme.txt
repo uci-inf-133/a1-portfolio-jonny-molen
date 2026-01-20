@@ -13,7 +13,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 */10
 - 1/1 Readme
 - 2/2 Basic HTML content
-- */1 Basic CSS styling
+- 1/1 Basic CSS styling
 - */1 Advanced feature
 - 2/2 Responsive layout
 - */1 Passes validation checks
@@ -32,8 +32,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (c) Advanced features
-
-
+- Creating a table with multiple columns and rows which can be read via a screen reader
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
@@ -41,7 +40,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
-3.5
+5
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
@@ -51,7 +50,7 @@ https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+n/a
 
 
 7. Is there anything special we need to know in order to run your code?
