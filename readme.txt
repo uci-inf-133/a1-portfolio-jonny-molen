@@ -16,7 +16,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - 1/1 Basic CSS styling
 - 1/1 Advanced feature
 - 2/2 Responsive layout
-- */1 Passes validation checks
+- 1/1 Passes validation checks
 - 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
@@ -36,11 +36,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-
+The errors I encountered were minimal formatting errors, specifically with the header. It was more for organization, but not a major concern. 
 
 
 4. How long, in hours, did it take you to complete this assignment?
-5
+6
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
