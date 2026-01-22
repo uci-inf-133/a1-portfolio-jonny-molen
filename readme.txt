@@ -10,7 +10,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/10
+10/10
 - 1/1 Readme
 - 2/2 Basic HTML content
 - 1/1 Basic CSS styling
@@ -28,7 +28,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 (b) CSS features
 - Modifying padding and margins to indent content and enhance readability
-- Modifying link, text color, or other colors to be visually appealing, perhaps with one of the pallette creators in the resources tab
+- Modifying link, text color, or other colors to be visually appealing, perhaps with one of the palette creators in the resources tab
 
 
 (c) Advanced features
@@ -36,11 +36,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-The errors I encountered were minimal formatting errors, specifically with the header. It was more for organization, but not a major concern. 
+The errors I encountered were minimal, primarily formatting issues with the header. It was more for organization, but not a major concern. 
 
 
 4. How long, in hours, did it take you to complete this assignment?
-6
+6.5
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
@@ -51,7 +51,7 @@ https://www.w3schools.com/html/html_tables.asp
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-n/a
+Crystal Louis- Submission help
 
 
 7. Is there anything special we need to know in order to run your code?
