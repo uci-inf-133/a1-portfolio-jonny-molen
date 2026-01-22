@@ -46,6 +46,7 @@ The errors I encountered were minimal formatting errors, specifically with the h
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 https://www.w3schools.com/html/html_links.asp
 https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_mailto
+https://www.w3schools.com/html/html_tables.asp
 
 
 
